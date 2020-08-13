@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "USFMCopyParallelPassages": {
+      "commandName": "Project",
+      "commandLineArgs": "--usfm=\"C:\\Users\\rbnsw\\source\\work\\en_ulb\" --mapping=\"C:\\Users\\rbnsw\\Downloads\\source.csv\" --output=\"C:\\Users\\rbnsw\\Downloads\\output\""
+    }
+  }
+}
